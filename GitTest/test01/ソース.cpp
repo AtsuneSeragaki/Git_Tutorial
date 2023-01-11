@@ -11,6 +11,9 @@ int main(void)
 	printf("konnichiwa\n");
 	printf("konnichiwa\n");
 
-
-	return 0;
+	for (int i = 0; i < 5; i++)
+	{
+		printf("aaas\n");
+	}
+		return 0;
 }
